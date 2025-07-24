@@ -1,12 +1,23 @@
-- 👋 Hi, I’m @zahir2003
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 👋 Hi there, I'm Zahir!
 
-<!---
-zahir2003/zahir2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 **I’m interested in:**  
+Machine Learning, Data Science, Deep Learning, and MLOps.
+
+🌱 **I’m currently learning:**  
+Advanced Machine Learning algorithms, Deep Learning model optimization, and MLOps tools for scalable deployment.
+
+💞️ **I’m looking to collaborate on:**  
+Real-world ML/DL projects, Kaggle competitions, and open-source contributions in AI and data-driven applications.
+
+📫 **How to reach me:**  
+- [LinkedIn](https://www.linkedin.com/in/zahir2003)  
+- [GitHub](https://github.com/zahir2003)
+
+😄 **Pronouns:** He/Him
+
+⚡ **Fun fact:**  
+I love solving complex problems with simple and elegant code, and I enjoy teaching concepts to others to strengthen my own understanding.
+
+---
+
+> 🚀 *“The best way to learn is by building and sharing.”*
