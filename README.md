@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm Zahir!
+### 👋 Hi there, I'm Sk Mahiduzzaman (Zahir)!
 
 👀 **I’m interested in:**  
 Machine Learning, Data Science, Deep Learning, and MLOps.
@@ -10,7 +10,8 @@ Advanced Machine Learning algorithms, Deep Learning model optimization, and MLOp
 Real-world ML/DL projects, Kaggle competitions, and open-source contributions in AI and data-driven applications.
 
 📫 **How to reach me:**  
-- [LinkedIn](https://www.linkedin.com/in/zahir2003)  
+- [Email](mailto:mohiduz03@gmail.com)  
+- [LinkedIn](https://www.linkedin.com/in/sk-mahiduzzaman)  
 - [GitHub](https://github.com/zahir2003)
 
 😄 **Pronouns:** He/Him
