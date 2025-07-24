@@ -12,7 +12,6 @@ Real-world ML/DL projects, Kaggle competitions, and open-source contributions in
 📫 **How to reach me:**  
 - [Email](mailto:mohiduz03@gmail.com)  
 - [LinkedIn](https://www.linkedin.com/in/sk-mahiduzzaman)  
-- [GitHub](https://github.com/zahir2003)
 
 😄 **Pronouns:** He/Him
 
