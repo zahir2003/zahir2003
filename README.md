@@ -42,18 +42,6 @@
 - A mobile app for booking Hindu priests (pandits) for poojas  
 - Three roles: Admin · Staff · User  
 
----
-
-## 📈 GitHub Stats
-<a href="https://github.com/sk-mahiduzzaman">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sk-mahiduzzaman&show_icons=true&theme=radical" alt="GitHub stats"/>
-</a>  
-
-<a href="https://github.com/sk-mahiduzzaman">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sk-mahiduzzaman&theme=radical" alt="GitHub streak"/>
-</a>  
-
----
 
 ## 💡 Interview Highlights
 - ✅ 3 real-world ML/DL projects with deployment (Flask/FastAPI → Docker → K8s)  
