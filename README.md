@@ -12,6 +12,9 @@ Real-world ML/DL projects, Kaggle competitions, and open-source contributions in
 📫 **How to reach me:**  
 - [Email](mailto:mohiduz03@gmail.com)  
 - [LinkedIn](https://www.linkedin.com/in/sk-mahiduzzaman)  
+- <a href="https://github.com/yourgithubusername" target="_blank" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" alt="GitHub" width="40" style="animation: bounce 2s infinite;">
+</a>
 
 😄 **Pronouns:** He/Him
 
@@ -21,3 +24,13 @@ I love solving complex problems with simple and elegant code, and I enjoy teachi
 ---
 
 > 🚀 *“The best way to learn is by building and sharing.”*
+
+<style>
+@keyframes bounce {
+  0% { transform: translateY(0); }
+  25% { transform: translateY(-8px); }
+  50% { transform: translateY(0); }
+  75% { transform: translateY(-4px); }
+  100% { transform: translateY(0); }
+}
+</style>
