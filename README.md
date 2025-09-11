@@ -45,12 +45,12 @@
 ---
 
 ## 📈 GitHub Stats
-<a href="https://github.com/your-username">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub stats"/>
+<a href="https://github.com/sk-mahiduzzaman">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sk-mahiduzzaman&show_icons=true&theme=radical" alt="GitHub stats"/>
 </a>  
 
-<a href="https://github.com/your-username">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub streak"/>
+<a href="https://github.com/sk-mahiduzzaman">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sk-mahiduzzaman&theme=radical" alt="GitHub streak"/>
 </a>  
 
 ---
@@ -65,7 +65,7 @@
 
 ## 📫 Connect With Me
 <p>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/your-username"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:mohiduz03@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/sk-mahiduzzaman"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/sk-mahiduzzaman"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
