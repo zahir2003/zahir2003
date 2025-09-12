@@ -1,25 +1,27 @@
-<!-- Add your 3D animated GIF link below -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/sk-mahiduzzaman/sk-mahiduzzaman/main/assets/3d-logo.gif" width="300" alt="3D Logo Animation"/>
 </p>
 
-### 👋 Hi there! I'm **Sk Mahiduzzaman (Zahir)**
+### 👋 Hey there! I'm Sk Mahiduzzaman (Zahir)
 
-🚀 AI enthusiast passionate about **Machine Learning, Deep Learning, and scalable AI deployments**  
-🌱 Currently mastering **Advanced ML algorithms, optimization, and MLOps pipelines**  
-🤝 Open to collaborations, hackathons, and open-source contributions
+Welcome to my corner of the internet, where I'm building the future of AI.
 
----
-
-## ✨ About Me  
-- 🔭 Working on **Generative AI and MLOps** projects  
-- 🌟 Exploring **end-to-end ML pipelines** from data collection to monitoring  
-- 💡 Passionate about solving real-world problems with AI  
-- 🎯 Goal: Become a **full-stack ML engineer**, combining development, operations, and explainability
+🚀 As a passionate **AI enthusiast**, I specialize in bringing **Machine Learning and Deep Learning** models to life, focusing on building **scalable AI deployments**.
+🌱 I'm currently leveling up my skills by diving deep into **advanced ML algorithms, optimization techniques, and robust MLOps pipelines**.
+🤝 Always open to new challenges! Let's connect on **collaborations, hackathons, and open-source contributions**.
 
 ---
 
-## 🛠 Tools & Technologies
+## ✨ What I'm building
+
+- 🔭 Currently architecting solutions in **Generative AI and MLOps**.
+- 🌟 My work revolves around creating **end-to-end ML pipelines**, from the first line of data collection to the final monitoring stages.
+- 💡 My mission: to tackle complex, real-world problems with intelligent AI solutions.
+- 🎯 My ultimate goal is to become a **full-stack ML engineer**, bridging the gap between development, operations, and explainability.
+
+---
+
+## 🛠 My Toolkit
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -36,34 +38,32 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects that tell my story
 
 ### 🔬 Tumor Detector (Swin + DETR)
 <p align="center">
   <img src="https://raw.githubusercontent.com/sk-mahiduzzaman/sk-mahiduzzaman/main/assets/tumor_detector_demo.gif" width="600" alt="Tumor Detector Demo"/>
 </p>
-✔ Detects tumors in CT scans  
-✔ Visualizes ground truth vs predictions  
+A powerful model that **detects tumors in CT scans**, showcasing the real-world impact of computer vision. This project visualizes **ground truth vs. predictions**, highlighting the model's accuracy.
 
 ### 📱 SevaConnect (Mobile App)
 <p align="center">
   <img src="https://raw.githubusercontent.com/sk-mahiduzzaman/sk-mahiduzzaman/main/assets/sevaconnect_ui.gif" width="600" alt="SevaConnect App"/>
 </p>
-✔ Book Hindu priests for poojas  
-✔ Role-based access: Admin, Staff, User  
+A full-stack mobile application that simplifies the process of **booking Hindu priests for poojas**. This platform features **role-based access** for Admins, Staff, and Users, demonstrating my expertise in building robust, user-centric systems.
 
 ---
 
-## 💡 Interview Highlights
+## 💡 Let's talk tech
 
-✔ Real-world experience with ML deployment using **Flask/FastAPI, Docker, and Kubernetes**  
-✔ Expertise in **optimization, loss functions, Grad-CAM explainability**  
-✔ Familiar with **CI/CD pipelines, monitoring, model registry setups**  
-✔ Available for **live coding, system design, and problem-solving interviews**
+- I bring hands-on experience in **ML deployment** using **Flask/FastAPI, Docker, and Kubernetes**.
+- I'm well-versed in complex topics like **optimization, custom loss functions, and Grad-CAM explainability**.
+- I have practical knowledge of **CI/CD pipelines, monitoring, and model registry setups**.
+- Ready to tackle your next challenge! Available for **live coding, system design, and problem-solving interviews**.
 
 ---
 
-## 📫 Let's Connect!
+## 📫 Connect with me
 
 <p align="center">
   <a href="mailto:mohiduz03@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
