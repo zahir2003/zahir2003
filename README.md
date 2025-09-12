@@ -1,16 +1,21 @@
-### 👋 Hey there! I'm **Sk Mahiduzzaman (Zahir)**  
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2JzY3ZmeXFhM2dseTBrM3RscTVsOXgyanF6bTFsNWV2OHI5N2RjdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WwA7Wk8gD5g287g5Ue/giphy.gif" width="32" alt="waving hand" />
+<!-- Add your 3D animated GIF link below -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sk-mahiduzzaman/sk-mahiduzzaman/main/assets/3d-logo.gif" width="300" alt="3D Logo Animation"/>
+</p>
 
-🎯 **AI Enthusiast • ML Engineer • MLOps Practitioner**  
-🌐 Turning ideas into scalable, intelligent solutions with code and creativity  
+### 👋 Hi there! I'm **Sk Mahiduzzaman (Zahir)**
+
+🚀 AI enthusiast passionate about **Machine Learning, Deep Learning, and scalable AI deployments**  
+🌱 Currently mastering **Advanced ML algorithms, optimization, and MLOps pipelines**  
+🤝 Open to collaborations, hackathons, and open-source contributions
 
 ---
 
-## 🚀 About Me  
-🎓 Passionate about **Machine Learning, Deep Learning, and AI-powered systems**  
-⚙️ Building pipelines from **data processing → modeling → deployment → monitoring**  
-🌱 Currently mastering **Advanced ML algorithms, DL optimization, and MLOps for production-ready solutions**  
-📡 Open to collaborations, hackathons, Kaggle competitions, and open-source contributions  
+## ✨ About Me  
+- 🔭 Working on **Generative AI and MLOps** projects  
+- 🌟 Exploring **end-to-end ML pipelines** from data collection to monitoring  
+- 💡 Passionate about solving real-world problems with AI  
+- 🎯 Goal: Become a **full-stack ML engineer**, combining development, operations, and explainability
 
 ---
 
@@ -31,34 +36,37 @@
 
 ---
 
-## ✨ Featured Projects
+## 🚀 Featured Projects
 
-### 🔬 **Tumor Detector (Swin + DETR)**  
-<img src="https://your-image-host.com/tumor_detector_demo.gif" width="600" alt="Tumor Detector Demo" />
-- Detects tumors in CT scans using advanced object detection  
-- Real-time visualization with Ground Truth vs Predictions  
+### 🔬 Tumor Detector (Swin + DETR)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sk-mahiduzzaman/sk-mahiduzzaman/main/assets/tumor_detector_demo.gif" width="600" alt="Tumor Detector Demo"/>
+</p>
+✔ Detects tumors in CT scans  
+✔ Visualizes ground truth vs predictions  
 
-### 📱 **SevaConnect (Mobile App)**  
-<img src="https://your-image-host.com/sevaconnect_ui.gif" width="600" alt="SevaConnect App" />
-- On-demand booking platform for Hindu priests (Pandits)  
-- Role-based access: Admin · Staff · User  
+### 📱 SevaConnect (Mobile App)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sk-mahiduzzaman/sk-mahiduzzaman/main/assets/sevaconnect_ui.gif" width="600" alt="SevaConnect App"/>
+</p>
+✔ Book Hindu priests for poojas  
+✔ Role-based access: Admin, Staff, User  
 
 ---
 
 ## 💡 Interview Highlights
 
-✔ Hands-on experience with **Flask/FastAPI, Docker, Kubernetes** for ML deployment  
-✔ Strong foundations in **optimization, loss functions, explainability (Grad-CAM)**  
-✔ Implemented **CI/CD pipelines**, **model registries**, and **monitoring dashboards**  
-✔ Available for **live coding, system design**, and ML problem-solving sessions  
+✔ Real-world experience with ML deployment using **Flask/FastAPI, Docker, and Kubernetes**  
+✔ Expertise in **optimization, loss functions, Grad-CAM explainability**  
+✔ Familiar with **CI/CD pipelines, monitoring, model registry setups**  
+✔ Available for **live coding, system design, and problem-solving interviews**
 
 ---
 
-## 🌐 Let's Connect!
+## 📫 Let's Connect!
 
 <p align="center">
-  <a href="mailto:mohiduz03@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/sk-mahiduzzaman"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/sk-mahiduzzaman"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="mailto:mohiduz03@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/sk-mahiduzzaman"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/sk-mahiduzzaman"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
