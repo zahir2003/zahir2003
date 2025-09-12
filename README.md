@@ -2,22 +2,26 @@
   <img src="https://raw.githubusercontent.com/sk-mahiduzzaman/sk-mahiduzzaman/main/assets/3d-logo.gif" width="300" alt="3D Logo Animation"/>
 </p>
 
-### 👋 Hey, I'm **Sk Mahiduzzaman (Zahir)**. I build intelligent systems.
+### 👋 Hey there! I'm Sk Mahiduzzaman (Zahir)
 
-I'm an **AI enthusiast** focused on turning groundbreaking **Machine Learning and Deep Learning** research into **scalable, real-world deployments**. Currently sharpening my skills in **advanced ML algorithms, optimization, and MLOps pipelines**. I'm always open to **collaborating on impactful projects**.
+Welcome to my corner of the internet, where I'm building the future of AI.
 
----
-
-## ✨ What I'm into
-
-- **Generative AI** and **MLOps**.
-- Building **end-to-end ML pipelines** from start to finish.
-- Solving complex problems with innovative **AI solutions**.
-- My next step: becoming a **full-stack ML engineer**.
+🚀 As a passionate **AI enthusiast**, I specialize in bringing **Machine Learning and Deep Learning** models to life, focusing on building **scalable AI deployments**.
+🌱 I'm currently leveling up my skills by diving deep into **advanced ML algorithms, optimization techniques, and robust MLOps pipelines**.
+🤝 Always open to new challenges! Let's connect on **collaborations, hackathons, and open-source contributions**.
 
 ---
 
-## 🛠 My Stack
+## ✨ What I'm building
+
+- 🔭 Currently architecting solutions in **Generative AI and MLOps**.
+- 🌟 My work revolves around creating **end-to-end ML pipelines**, from the first line of data collection to the final monitoring stages.
+- 💡 My mission: to tackle complex, real-world problems with intelligent AI solutions.
+- 🎯 My ultimate goal is to become a **full-stack ML engineer**, bridging the gap between development, operations, and explainability.
+
+---
+
+## 🛠 My Toolkit
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -34,32 +38,16 @@ I'm an **AI enthusiast** focused on turning groundbreaking **Machine Learning an
 
 ---
 
-## 🚀 Key Projects
+## 💡 Let's talk tech
 
-### 🔬 Tumor Detector (Swin + DETR)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sk-mahiduzzaman/sk-mahiduzzaman/main/assets/tumor_detector_demo.gif" width="600" alt="Tumor Detector Demo"/>
-</p>
-A project that uses AI to **detect tumors in CT scans**. It visually demonstrates the model's accuracy by showing **ground truth vs. predictions**.
-
-### 📱 SevaConnect (Mobile App)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sk-mahiduzzaman/sk-mahiduzzaman/main/assets/sevaconnect_ui.gif" width="600" alt="SevaConnect App"/>
-</p>
-A full-stack mobile app designed for **booking Hindu priests for poojas**. Features a robust **role-based access** system.
+- I bring hands-on experience in **ML deployment** using **Flask/FastAPI, Docker, and Kubernetes**.
+- I'm well-versed in complex topics like **optimization, custom loss functions, and Grad-CAM explainability**.
+- I have practical knowledge of **CI/CD pipelines, monitoring, and model registry setups**.
+- Ready to tackle your next challenge! Available for **live coding, system design, and problem-solving interviews**.
 
 ---
 
-## 💡 Key Expertise
-
-- Proven experience with **ML deployment** (**Flask/FastAPI, Docker, Kubernetes**).
-- Deep knowledge of **optimization, loss functions, and Grad-CAM explainability**.
-- Experienced in **CI/CD pipelines, monitoring, and model registry setups**.
-- Ready for a challenge: available for **live coding, system design, and problem-solving interviews**.
-
----
-
-## 📫 Get in touch
+## 📫 Connect with me
 
 <p align="center">
   <a href="mailto:mohiduz03@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
