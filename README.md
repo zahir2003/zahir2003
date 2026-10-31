@@ -2,24 +2,37 @@
   <img src="https://raw.githubusercontent.com/sk-mahiduzzaman/sk-mahiduzzaman/main/assets/3d-logo.gif" width="300" alt="3D Logo Animation"/>
 </p>
 
-### 👋 Hey there! I'm Sk Mahiduzzaman (Zahir)
+# 👋 Hey there! I'm Sk Mahiduzzaman (Zahir)
 
-Welcome to my corner of the internet, where I'm building the future of AI.
+### 🤖 AI/ML Engineer | Generative AI Enthusiast | MLOps Explorer
 
-🚀 As a passionate **AI enthusiast**, I specialize in bringing **Machine Learning and Deep Learning** models to life, focusing on building **scalable AI deployments**.
-🌱 I'm currently leveling up my skills by diving deep into **advanced ML algorithms, optimization techniques, and robust MLOps pipelines**.
-🤝 Always open to new challenges! Let's connect on **collaborations, hackathons, and open-source contributions**.
+Welcome to my GitHub! I'm passionate about building intelligent solutions and turning innovative ideas into practical AI applications.
+
+🎓 A Computer Science & Engineering graduate specializing in **Artificial Intelligence & Machine Learning**.
+
+🧠 Exploring **Machine Learning, Deep Learning, NLP, LLMs, Transformers, and Generative AI**.
+
+⚙️ Working with **Python, PyTorch, TensorFlow, Hugging Face, LangChain, and FastAPI** to build AI-powered applications.
+
+🚀 Interested in **RAG, Agentic AI, MLOps, model deployment, and scalable AI systems**.
+
+🤝 Always excited to connect with developers, researchers, and AI enthusiasts to collaborate on meaningful projects.
 
 ---
 
-## ✨ What I'm building
+## ✨ What I'm Building
 
-- 🔭 Currently architecting solutions in **Generative AI and MLOps**.
-- 🌟 My work revolves around creating **end-to-end ML pipelines**, from the first line of data collection to the final monitoring stages.
-- 💡 My mission: to tackle complex, real-world problems with intelligent AI solutions.
-- 🎯 My ultimate goal is to become a **full-stack ML engineer**, bridging the gap between development, operations, and explainability.
+- 🔭 Exploring practical applications of **LLMs, RAG, and Agentic AI**.
+- 🧠 Building AI/ML projects involving **multimodal learning, NLP, and intelligent automation**.
+- ⚙️ Developing and experimenting with **end-to-end ML pipelines, model deployment, and MLOps workflows**.
+- 📊 Learning how to evaluate, monitor, and improve AI models for real-world applications.
+- 🎯 My goal is to grow as an **AI/ML Engineer** and build reliable, scalable AI solutions that solve real-world problems.
 
 ---
+
+## 🌱 Always Learning, Always Building
+
+I believe the best way to learn technology is by building with it. I'm constantly experimenting, improving my skills, and exploring new possibilities in AI.
 
 ## 🛠 My Toolkit
 
@@ -73,12 +86,18 @@ Welcome to my corner of the internet, where I'm building the future of AI.
 
 ---
 
-## 💡 Let's talk tech
+## 💡 Let's Talk Tech
 
-- I bring hands-on experience in **ML deployment** using **Flask/FastAPI, Docker, and Kubernetes**.
-- I'm well-versed in complex topics like **optimization, custom loss functions, and Grad-CAM explainability**.
-- I have practical knowledge of **CI/CD pipelines, monitoring, and model registry setups**.
-- Ready to tackle your next challenge! Available for **live coding, system design, and problem-solving interviews**.
+- 🤖 Passionate about building practical AI solutions using **Machine Learning, Deep Learning, NLP, and Generative AI**.
+- 🧠 Exploring **LLMs, Transformers, RAG, Prompt Engineering, and Agentic AI** to build smarter applications.
+- ⚙️ Hands-on experience with **Python, FastAPI, PyTorch, TensorFlow, and Hugging Face**.
+- 🚀 Interested in **MLOps, model deployment, Docker, Kubernetes, and CI/CD automation**.
+- 📊 Experienced in working on AI/ML projects involving model development, evaluation, and real-world problem-solving.
+- 🔍 Always curious to explore new technologies, solve challenging problems, and turn ideas into working solutions.
+
+### 🤝 Let's Connect, Collaborate & Build Something Amazing!
+
+Open to **Data Analyst, Data Scientist, AI/ML Engineer, Machine Learning, Software Engineer, Generative AI, and MLOps opportunities**. Always happy to connect, collaborate, and build something meaningful!
 
 ---
 
